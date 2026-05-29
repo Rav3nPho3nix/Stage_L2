@@ -5,7 +5,7 @@ Mon sujet était : "Développement et déploiement sur robot quadrupède Lite3"
 
 Je devais développer des mouvements sur le Lite3 qui étaient "perdus" depuis la dernière mise à jour. Etant donné que l'application mobile (qui est fermée) ne faisait pas faire les mouvements au Lite3, j'ai présumé que le problème venait du robot lui même.
 
-Vous pouvez voir plus d'informations sur mon [rapport de stage]().
+Vous pouvez voir plus d'informations sur mon [rapport de stage](/Rapport_stage.pdf).
 
 Plusieurs vidéos sont présentes dans le dossier [doc](/doc/).
 
